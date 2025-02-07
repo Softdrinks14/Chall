@@ -1,0 +1,15 @@
+Desk : 
+
+Kata-kata hari ini pak sujuddddd!!!
+
+HINT : 
+1. Apakah kamu tau apa yang lucu dari 64?
+
+flag : Kaliber{c00lorp4l3t31ss0funn}
+
+cara solve : 
+
+1. cari dominan color palete dari web https://onlinejpgtools.com/find-dominant-jpg-colors
+2. susun lalu convert ke dalam base 64
+
+Kategori : Forensic

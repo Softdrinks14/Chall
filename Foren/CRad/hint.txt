@@ -1,0 +1,13 @@
+CHALL OSINT
+
+Desc : 
+Aku dan temanku tidak bermain game ini sudah lama sekali. Aku ingin mencari akun dari temanku untuk bergabung ke dalam squad nya tetapi aku lupa akun dari temanku. Temanku juga menaruh sebuah pesan bantu aku mencarinya
+
+tulis format flag Kaliber{Akun-Tag_flag-ke-2}
+
+flag : Kaliber{#R88UGLRQ9_th1s_1s_last_fl4g}
+
+cara solve :
+1. gunakan clash royale api
+2. cari nama user sesuai discord salin tag id user
+3. flag ke 2 ada di desc squad

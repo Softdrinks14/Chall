@@ -1,0 +1,18 @@
+Mas Faris memberikan ku sebuah file yang anomali apakah kamu bisa memberikan anomali apa itu?
+
+format flag : Kaliber{uppercase no space]
+
+HINT
+1. Dual Tone Multi-frequency?
+
+flag : Kaliber{PUSINGBANG}
+
+Cara solve 
+
+1. detect bentuk wav http://www.dialabc.com/sound/dtmf.html 
+2. scan lewat cipher identifier -> multitap sms
+3. scan kemungkinan kalimat yang bisa dinalar
+
+Kategori : Forensic
+
+

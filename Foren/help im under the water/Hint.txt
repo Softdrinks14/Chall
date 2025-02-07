@@ -1,0 +1,5 @@
+step : 
+1. gunakan tweak png 
+2. set image header untuk height ke lebih dari yang ada di gambar
+
+flag : Kaliber{1m4g3_g0t_c1200p33d}
